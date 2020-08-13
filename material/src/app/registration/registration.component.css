@@ -1,0 +1,29 @@
+h1{
+    font-size: 2em;
+    font-weight: bolder ;
+    margin-top: 40px;
+}
+.register{
+    font-size: 1em;
+}
+.form{
+    margin-left: 30%;
+    width:400px;
+    background-color: ghostwhite;
+    text-align: center;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.submit{
+    width:200px;
+    border:1px solid rgb(216, 46, 88);
+    height: 30px;
+    background-color: rgb(253, 222, 230);
+    border-radius: 5px;
+    color: rgb(216, 46, 88);
+    margin-bottom: 30px;
+}
+input{
+    width:100%;
+}
